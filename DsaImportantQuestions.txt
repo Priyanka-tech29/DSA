@@ -1,0 +1,54 @@
+Interview process. Here are some DSA problems that are commonly asked in interviews at such companies, tailored for someone with around 2 years of experience in Java:
+
+String Manipulation:
+
+Reverse a string.
+Check if a string is a palindrome.
+Implement a function to check if two strings are anagrams.
+Find the first non-repeating character in a string.
+Array and Sorting:
+
+Find the intersection of two arrays.
+Merge two sorted arrays.
+Find the Kth largest/smallest element in an array.
+Rotate an array to the right by K steps.
+Search and Binary Search:
+
+Implement binary search on a sorted array.
+Find the square root of a number using binary search.
+Search in a rotated sorted array.
+Linked Lists:
+
+Reverse a linked list.
+Detect and remove a loop in a linked list.
+Find the intersection point of two linked lists.
+Trees and Graphs:
+
+Implement tree traversal algorithms (pre-order, in-order, post-order).
+Find the lowest common ancestor in a binary tree.
+Perform a depth-first search (DFS) or breadth-first search (BFS) on a graph.
+Dynamic Programming:
+
+Solve the Fibonacci sequence using dynamic programming.
+Calculate the nth factorial.
+Implement the Coin Change problem.
+Stacks and Queues:
+
+Implement a stack using two queues.
+Implement a queue using two stacks.
+Evaluate a postfix expression using a stack.
+Recursion:
+
+Solve the Tower of Hanoi problem.
+Calculate the Nth term of the Fibonacci sequence using recursion.
+Solve the N-Queens problem.
+Bit Manipulation:
+
+Count the number of set bits (1s) in an integer.
+Check if a number is a power of two.
+Swap two numbers without using a temporary variable.
+Design Problems:
+
+Design a data structure to support constant time insert, delete, and getRandom operations.
+Design a URL shortening service.
+Implement a LRU (Least Recently Used) Cache.
